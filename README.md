@@ -6,7 +6,9 @@
 [![Visits Badge](https://badges.pufler.dev/visits/JohanDev6/JohanDev6)](https://badges.pufler.dev)
 
 
-Eu sou Johan Henrique, Tenho 17 Anos, Sou desenvolvedor Front-End Css, Sass, JavaScript, Html, ReactJs e atualmente estou focando no Back-End juntamente me aperfeiçoando mais no Front-End, Desejo me tornar um Desenvolvedor Full-Stack mas isso leva muito tempo e estudo, sempre 1 passo de cada vez. Estou ansioso para absorver conhecimento, ganhar experiência, trabalhar em equipe, e construir projetos incríveis!
+Eu sou Johan Henrique, Tenho 17 Anos, Sou desenvolvedor Front-End Css, Sass, JavaScript, Html, ReactJs e atualmente estou focando no Back-End juntamente me aperfeiçoando mais no Front-End, Desejo me tornar um Desenvolvedor Full-Stack mas isso leva muito tempo e estudo, sempre 1 passo de cada vez. Estou ansioso para absorver conhecimento, ganhar experiência e construir projetos incríveis!
+
+Ainda não tive a oportunidade de trabalhar profissionalmente na área de desenvolvimento, mas na minha primeira oportunidade darei meu melhor. Quaisquer desafios que tivermos estarei disposto a aprender!
 
 
 ## Libs, Languages e Tools
