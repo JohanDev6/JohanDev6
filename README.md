@@ -11,8 +11,8 @@ Eu sou Johan Henrique, Tenho 17 Anos, Sou desenvolvedor Front-End Css, Sass, Jav
 
 ## Libs, Languages e Tools
 
- - [x] JavaScript, jQuery
- - [x] Css, Bootstrap, SemanticUi, MaterialUi
+ - [x] JavaScript
+ - [x] Css 
  - [x] Html
  - [ ] Sass
  - [x] ReactJs
@@ -23,7 +23,7 @@ Eu sou Johan Henrique, Tenho 17 Anos, Sou desenvolvedor Front-End Css, Sass, Jav
  - [ ] PostGreSQL
  - [ ] AWS
  - [x] Firebase DB, Cloud FireStore, Auth
- - [ ] Angular9
+ - [x] Angular9
  - [ ] NextJs
  - [ ] WebPacks
  - [ ] Others
