@@ -21,11 +21,10 @@ Ainda não tive a oportunidade de trabalhar profissionalmente na área de desenv
  - [ ] ReactNative
  - [x] Express
  - [x] NodeJs
- - [ ] MongoDB
+ - [X] MongoDB
  - [ ] PostGreSQL
  - [ ] AWS
- - [x] Firebase DB, Cloud FireStore, Auth
- - [x] Angular9
+ - [x] Firebase DB, Auth
  - [ ] NextJs
  - [ ] WebPacks
  - [ ] Others
